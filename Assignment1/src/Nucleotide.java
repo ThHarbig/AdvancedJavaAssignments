@@ -3,15 +3,15 @@
  */
 class Nucleotide {
     private char x;
-    Nucleotide(char x){
-        this.x=x;
+
+    Nucleotide(char x) {
+        this.x = x;
     }
 
     /**
-     *
      * @return nucleotide or '-'
      */
-    char getNucleotide(){
+    char getNucleotide() {
         return x;
     }
 }
