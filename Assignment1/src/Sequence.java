@@ -52,8 +52,6 @@ class Sequence {
                 gaps += 1;
             }
         }
-        System.out.println(this.getSeq());
-
     }
 
     /**
